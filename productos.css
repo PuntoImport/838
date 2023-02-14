@@ -815,8 +815,13 @@ h3{
   width: 40px;
   height: 40px;
   margin-left: 5px;
-  margin-top: 75vh;
   }
+  .botonsubir{
+    margin-top: 32vh;
+    }
+   .whatsap{
+    margin-top: 1vh;
+    }
   .aaa{
     font-size: 35px;
   }
